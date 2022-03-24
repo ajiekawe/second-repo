@@ -1,1 +1,2 @@
-print("bosque")
+x = "hello"
+print(x, "bosque")
